@@ -1,2 +1,4 @@
 # SIR_Modeling_Simulink
-Practical work on systems theory and control systems using Simulink models
+Работа выполнятся с использованием пакета MATLAB Simulink.
+[Отчет по работе](state.pdf)
+[Модели Simulink](models)
